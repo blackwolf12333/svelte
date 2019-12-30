@@ -22,8 +22,6 @@
 </p>
 
 
-hello this is to try a drone.io trigger
-
 ## What is Svelte?
 
 Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
