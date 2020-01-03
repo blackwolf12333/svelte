@@ -1,10 +1,5 @@
 pipeline {
-  agent {
-    node {
-      label 'qa-build'
-    }
-
-  }
+  agent any
   stages {
     stage('install') {
       steps {
